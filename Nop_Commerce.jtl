@@ -1,0 +1,17 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1603115889086,3947,Open site,200,OK,NopCommerce 1-1,text,true,,6895,371,1,1,https://demo.nopcommerce.com/,3939,0,2305
+1603115893045,504,Search product,200,OK,NopCommerce 1-1,text,true,,6612,399,1,1,https://demo.nopcommerce.com/search?q=APPLE,503,0,0
+1603115894792,458,Open product page,200,OK,NopCommerce 1-1,text,true,,8666,424,1,1,https://demo.nopcommerce.com/apple-macbook-pro-13-inch,457,0,0
+1603115895252,388,Add product to cart,200,OK,NopCommerce 1-1,text,true,,2009,707,1,1,https://demo.nopcommerce.com/addproducttocart/details/4/1,388,0,0
+1603115895642,313,Check out attribute change,200,OK,NopCommerce 1-1,text,true,,1804,808,1,1,https://demo.nopcommerce.com/shoppingcart/checkoutattributechange?isEditable=True,313,0,0
+1603115895997,3,Debug Sampler,200,OK,NopCommerce 1-1,text,true,,3246,0,1,1,null,0,0,0
+1603115896001,479,Search product,200,OK,NopCommerce 1-1,text,true,,6577,399,1,1,https://demo.nopcommerce.com/search?q=APPLE,479,0,0
+1603115896593,468,Open product page,200,OK,NopCommerce 1-1,text,true,,8673,424,1,1,https://demo.nopcommerce.com/apple-macbook-pro-13-inch,467,0,0
+1603115897066,1117,Add product to cart,200,OK,NopCommerce 1-1,text,true,,2009,707,1,1,https://demo.nopcommerce.com/addproducttocart/details/4/1,1117,0,0
+1603115898189,284,Check out attribute change,200,OK,NopCommerce 1-1,text,true,,1804,808,1,1,https://demo.nopcommerce.com/shoppingcart/checkoutattributechange?isEditable=True,284,0,0
+1603115898475,1,Debug Sampler,200,OK,NopCommerce 1-1,text,true,,3246,0,1,1,null,0,0,0
+1603115898477,470,Search product,200,OK,NopCommerce 1-1,text,true,,6577,399,1,1,https://demo.nopcommerce.com/search?q=APPLE,469,0,0
+1603115898998,450,Open product page,200,OK,NopCommerce 1-1,text,true,,8700,424,1,1,https://demo.nopcommerce.com/apple-macbook-pro-13-inch,450,0,0
+1603115899450,1108,Add product to cart,200,OK,NopCommerce 1-1,text,true,,2014,707,1,1,https://demo.nopcommerce.com/addproducttocart/details/4/1,1108,0,0
+1603115900563,294,Check out attribute change,200,OK,NopCommerce 1-1,text,true,,1804,808,1,1,https://demo.nopcommerce.com/shoppingcart/checkoutattributechange?isEditable=True,294,0,0
+1603115900859,0,Debug Sampler,200,OK,NopCommerce 1-1,text,true,,3246,0,1,1,null,0,0,0
